@@ -1,2 +1,2 @@
 # Practice
-This project is for practicing git. 
+This project is for practising git. 
