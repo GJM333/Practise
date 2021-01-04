@@ -2,6 +2,11 @@ Hello git!
 
 This a file for testing pull request.
 
+<<<<<<< HEAD
 This is new content ...
 
 111111111111
+=======
+add one more line.
+>>>>>>> 99fe256a13db700be1ddef0cf5a32d02bea58a3d
+123456789
